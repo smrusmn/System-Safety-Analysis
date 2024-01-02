@@ -1,0 +1,65 @@
+Function,Failure Condition_1,Parent_System_1,Failure_Condition_B,Parent System_2,DAL,Failure Condition_1s,Failure Condition_Bs,Parent Condition_1s,Parent Condition_2s
+A,0,0,0,0,0,Partial Failure,Annuciated,Partial Failure,Annuciated
+A,1,0,0,0,1,Total Failure,Annuciated,Partial Failure,Annuciated
+B ,0,0,0,0,0,Partial Failure,Annuciated,Partial Failure,Annuciated
+B ,1,0,0,0,1,Total Failure,Annuciated,Partial Failure,Annuciated
+C,0,0,0,0,0,Partial Failure,Annuciated,Partial Failure,Annuciated
+C,1,0,0,0,1,Total Failure,Annuciated,Partial Failure,Annuciated
+D,0,0,0,0,0,Partial Failure,Annuciated,Partial Failure,Annuciated
+D,1,0,0,0,1,Total Failure,Annuciated,Partial Failure,Annuciated
+A,0,0,1,0,2,Partial Failure,Unannuciated,Partial Failure,Annuciated
+A,1,0,1,0,2,Total Failure,Unannuciated,Partial Failure,Annuciated
+B ,0,0,1,0,2,Partial Failure,Unannuciated,Partial Failure,Annuciated
+B ,1,0,1,0,2,Total Failure,Unannuciated,Partial Failure,Annuciated
+C,0,0,1,0,2,Partial Failure,Unannuciated,Partial Failure,Annuciated
+C,1,0,1,0,2,Total Failure,Unannuciated,Partial Failure,Annuciated
+D,0,0,1,0,2,Partial Failure,Unannuciated,Partial Failure,Annuciated
+D,1,0,1,0,2,Total Failure,Unannuciated,Partial Failure,Annuciated
+A,0,1,0,0,1,Partial Failure,Annuciated,Total Failure,Annuciated
+A,1,1,0,0,1,Total Failure,Annuciated,Total Failure,Annuciated
+B ,0,1,0,0,1,Partial Failure,Annuciated,Total Failure,Annuciated
+B ,1,1,0,0,1,Total Failure,Annuciated,Total Failure,Annuciated
+C,0,1,0,0,1,Partial Failure,Annuciated,Total Failure,Annuciated
+C,1,1,0,0,1,Total Failure,Annuciated,Total Failure,Annuciated
+D,0,1,0,0,1,Partial Failure,Annuciated,Total Failure,Annuciated
+D,1,1,0,0,1,Total Failure,Annuciated,Total Failure,Annuciated
+A,0,1,1,0,2,Partial Failure,Unannuciated,Total Failure,Annuciated
+A,1,1,1,0,2,Total Failure,Unannuciated,Total Failure,Annuciated
+B ,0,1,1,0,2,Partial Failure,Unannuciated,Total Failure,Annuciated
+B ,1,1,1,0,3,Total Failure,Unannuciated,Total Failure,Annuciated
+C,0,1,1,0,2,Partial Failure,Unannuciated,Total Failure,Annuciated
+C,1,1,1,0,3,Total Failure,Unannuciated,Total Failure,Annuciated
+D,0,1,1,0,2,Partial Failure,Unannuciated,Total Failure,Annuciated
+D,1,1,1,0,3,Total Failure,Unannuciated,Total Failure,Annuciated
+A,0,0,0,1,2,Partial Failure,Annuciated,Partial Failure,Unannuciated
+A,1,0,0,1,2,Total Failure,Annuciated,Partial Failure,Unannuciated
+B ,0,0,0,1,2,Partial Failure,Annuciated,Partial Failure,Unannuciated
+B ,1,0,0,1,2,Total Failure,Annuciated,Partial Failure,Unannuciated
+C,0,0,0,1,2,Partial Failure,Annuciated,Partial Failure,Unannuciated
+C,1,0,0,1,2,Total Failure,Annuciated,Partial Failure,Unannuciated
+D,0,0,0,1,2,Partial Failure,Annuciated,Partial Failure,Unannuciated
+D,1,0,0,1,2,Total Failure,Annuciated,Partial Failure,Unannuciated
+A,0,0,1,1,3,Partial Failure,Unannuciated,Partial Failure,Unannuciated
+A,1,0,1,1,3,Total Failure,Unannuciated,Partial Failure,Unannuciated
+B ,0,0,1,1,3,Partial Failure,Unannuciated,Partial Failure,Unannuciated
+B ,1,0,1,1,3,Total Failure,Unannuciated,Partial Failure,Unannuciated
+C,0,0,1,1,3,Partial Failure,Unannuciated,Partial Failure,Unannuciated
+C,1,0,1,1,3,Total Failure,Unannuciated,Partial Failure,Unannuciated
+D,0,0,1,1,3,Partial Failure,Unannuciated,Partial Failure,Unannuciated
+D,1,0,1,1,3,Total Failure,Unannuciated,Partial Failure,Unannuciated
+A,0,1,0,1,2,Partial Failure,Annuciated,Total Failure,Unannuciated
+A,1,1,0,1,3,Total Failure,Annuciated,Total Failure,Unannuciated
+B ,0,1,0,1,2,Partial Failure,Annuciated,Total Failure,Unannuciated
+B ,1,1,0,1,3,Total Failure,Annuciated,Total Failure,Unannuciated
+C,0,1,0,1,2,Partial Failure,Annuciated,Total Failure,Unannuciated
+C,1,1,0,1,2,Total Failure,Annuciated,Total Failure,Unannuciated
+D,0,1,0,1,2,Partial Failure,Annuciated,Total Failure,Unannuciated
+D,1,1,0,1,2,Total Failure,Annuciated,Total Failure,Unannuciated
+A,0,1,1,1,3,Partial Failure,Unannuciated,Total Failure,Unannuciated
+A,1,1,1,1,4,Total Failure,Unannuciated,Total Failure,Unannuciated
+B ,0,1,1,1,3,Partial Failure,Unannuciated,Total Failure,Unannuciated
+B ,1,1,1,1,4,Total Failure,Unannuciated,Total Failure,Unannuciated
+C,0,1,1,1,3,Partial Failure,Unannuciated,Total Failure,Unannuciated
+C,1,1,1,1,4,Total Failure,Unannuciated,Total Failure,Unannuciated
+D,0,1,1,1,3,Partial Failure,Unannuciated,Total Failure,Unannuciated
+D,1,1,1,1,4,Total Failure,Unannuciated,Total Failure,Unannuciated
