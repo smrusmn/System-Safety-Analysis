@@ -1,0 +1,65 @@
+Sub_System,Failure Condition_1s,Failure Condition_2s,Parent Condition_1s,Parent Condition_2s,DAL
+A,Partial Failure,Annuciated,Partial Failure,Annuciated,None
+A,Total Failure,Annuciated,Partial Failure,Annuciated,Minor
+B ,Partial Failure,Annuciated,Partial Failure,Annuciated,None
+B ,Total Failure,Annuciated,Partial Failure,Annuciated,Minor
+C,Partial Failure,Annuciated,Partial Failure,Annuciated,None
+C,Total Failure,Annuciated,Partial Failure,Annuciated,Minor
+D,Partial Failure,Annuciated,Partial Failure,Annuciated,None
+D,Total Failure,Annuciated,Partial Failure,Annuciated,Minor
+A,Partial Failure,Unannuciated,Partial Failure,Annuciated,Major
+A,Total Failure,Unannuciated,Partial Failure,Annuciated,Major
+B ,Partial Failure,Unannuciated,Partial Failure,Annuciated,Major
+B ,Total Failure,Unannuciated,Partial Failure,Annuciated,Major
+C,Partial Failure,Unannuciated,Partial Failure,Annuciated,Major
+C,Total Failure,Unannuciated,Partial Failure,Annuciated,Major
+D,Partial Failure,Unannuciated,Partial Failure,Annuciated,Major
+D,Total Failure,Unannuciated,Partial Failure,Annuciated,Major
+A,Partial Failure,Annuciated,Total Failure,Annuciated,Minor
+A,Total Failure,Annuciated,Total Failure,Annuciated,Minor
+B ,Partial Failure,Annuciated,Total Failure,Annuciated,Minor
+B ,Total Failure,Annuciated,Total Failure,Annuciated,Minor
+C,Partial Failure,Annuciated,Total Failure,Annuciated,Minor
+C,Total Failure,Annuciated,Total Failure,Annuciated,Minor
+D,Partial Failure,Annuciated,Total Failure,Annuciated,Minor
+D,Total Failure,Annuciated,Total Failure,Annuciated,Minor
+A,Partial Failure,Unannuciated,Total Failure,Annuciated,Major
+A,Total Failure,Unannuciated,Total Failure,Annuciated,Major
+B ,Partial Failure,Unannuciated,Total Failure,Annuciated,Major
+B ,Total Failure,Unannuciated,Total Failure,Annuciated,Hazardous
+C,Partial Failure,Unannuciated,Total Failure,Annuciated,Major
+C,Total Failure,Unannuciated,Total Failure,Annuciated,Hazardous
+D,Partial Failure,Unannuciated,Total Failure,Annuciated,Major
+D,Total Failure,Unannuciated,Total Failure,Annuciated,Hazardous
+A,Partial Failure,Annuciated,Partial Failure,Unannuciated,Major
+A,Total Failure,Annuciated,Partial Failure,Unannuciated,Major
+B ,Partial Failure,Annuciated,Partial Failure,Unannuciated,Major
+B ,Total Failure,Annuciated,Partial Failure,Unannuciated,Major
+C,Partial Failure,Annuciated,Partial Failure,Unannuciated,Major
+C,Total Failure,Annuciated,Partial Failure,Unannuciated,Major
+D,Partial Failure,Annuciated,Partial Failure,Unannuciated,Major
+D,Total Failure,Annuciated,Partial Failure,Unannuciated,Major
+A,Partial Failure,Unannuciated,Partial Failure,Unannuciated,Hazardous
+A,Total Failure,Unannuciated,Partial Failure,Unannuciated,Hazardous
+B ,Partial Failure,Unannuciated,Partial Failure,Unannuciated,Hazardous
+B ,Total Failure,Unannuciated,Partial Failure,Unannuciated,Hazardous
+C,Partial Failure,Unannuciated,Partial Failure,Unannuciated,Hazardous
+C,Total Failure,Unannuciated,Partial Failure,Unannuciated,Hazardous
+D,Partial Failure,Unannuciated,Partial Failure,Unannuciated,Hazardous
+D,Total Failure,Unannuciated,Partial Failure,Unannuciated,Hazardous
+A,Partial Failure,Annuciated,Total Failure,Unannuciated,Major
+A,Total Failure,Annuciated,Total Failure,Unannuciated,Hazardous
+B ,Partial Failure,Annuciated,Total Failure,Unannuciated,Major
+B ,Total Failure,Annuciated,Total Failure,Unannuciated,Hazardous
+C,Partial Failure,Annuciated,Total Failure,Unannuciated,Major
+C,Total Failure,Annuciated,Total Failure,Unannuciated,Major
+D,Partial Failure,Annuciated,Total Failure,Unannuciated,Major
+D,Total Failure,Annuciated,Total Failure,Unannuciated,Major
+A,Partial Failure,Unannuciated,Total Failure,Unannuciated,Hazardous
+A,Total Failure,Unannuciated,Total Failure,Unannuciated,Catastrophic
+B ,Partial Failure,Unannuciated,Total Failure,Unannuciated,Hazardous
+B ,Total Failure,Unannuciated,Total Failure,Unannuciated,Catastrophic
+C,Partial Failure,Unannuciated,Total Failure,Unannuciated,Hazardous
+C,Total Failure,Unannuciated,Total Failure,Unannuciated,Catastrophic
+D,Partial Failure,Unannuciated,Total Failure,Unannuciated,Hazardous
+D,Total Failure,Unannuciated,Total Failure,Unannuciated,Catastrophic
