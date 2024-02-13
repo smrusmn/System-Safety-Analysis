@@ -1,0 +1,15 @@
+﻿Function ,Failure Conditon,Failure Condition B,Phase,Effect on Crew,Effect on Pilot,Effect on Occupants,DAL
+Decelerate Aircraft using wheel braking,Total Loss of Wheel Braking,Annuciated ,Landing,,,,Hazardous
+Decelerate Aircraft using wheel braking,Total Loss of Wheel Braking,Unannuciated,Landing,,,,Hazardous
+Decelerate Aircraft using wheel braking,Total Loss of Wheel Braking,Unannuciated,Rejected Takeoff,,,,Hazardous
+Decelerate Aircraft using wheel braking,Partial Symmetric Loss of Loss of Wheel Braking,Unannuciated,Landing,,,,Hazardous
+Decelerate Aircraft using wheel braking,Partial Symmetric Loss of Loss of Wheel Braking,Annuciated,Landing,,,,Major
+Decelerate Aircraft using wheel braking,Partial Symmetric Loss of Loss of Wheel Braking,Uannuciated,Rejected Takeoff,,,,Hazardous
+Decelerate Aircraft using wheel braking,Asymmetrical loss of wheel braking,Wheel braking system loss only,Landing,,,,Major
+Decelerate Aircraft using wheel braking,Asymmetrical loss of wheel braking,Wheel braking system and loss of rudder or nose wheel steering,Landing,,,,Hazardous
+Decelerate Aircraft using wheel braking,Asymmetrical loss of wheel braking,Wheel braking system loss only,Rejected Takeoff,,,,Major
+Decelerate Aircraft using wheel braking,Inadvertent Wheel brake application,Without Wheel locking,Takeoff before V1,,,,Minor
+Decelerate Aircraft using wheel braking,Inadvertent Wheel brake application,with all wheels locked,Takeoff before V1,,,,Hazardous
+Decelerate Aircraft using wheel braking,Inadvertent Wheel brake application,all wheels locked or not locked,Takeoff after V1,,,,Catastrophic
+Decelerate Aircraft using wheel braking,Inadvertent Wheel brake application,Undetected on one wheel without wheel locking,Takeoff,,,,Catastrophic
+Decelerate Aircraft using wheel braking,Inadvertent Wheel brake application,Undetected on one wheel without wheel locking coupled with detected high brake temprature,Takeoff,,,,Minor

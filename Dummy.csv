@@ -1,0 +1,17 @@
+﻿Function,Failure_Condition_A,Failure_Condition_B,Redundancy,Phase,DAL,DALn,Redundancy_n
+A,Annuciated,Total Loss,three,Landing,Catastrophic,1,3
+A,Unannuciated,Total Loss,three,Landing,Catastrophic,1,3
+B ,Annuciated,Total Loss,two,RTO,Hazardous,2,2
+B ,Unannuciated,Total Loss,two,RTO,Hazardous,2,2
+C,Annuciated,Total Loss,one,Taxi,Major,3,1
+C,Unannuciated,Total Loss,one,Taxi,Major,3,1
+D,Annuciated,Total Loss,zero,Cruise,Minor,4,0
+D,Unannuciated,Total Loss,zero,Cruise,Minor,4,0
+A,Annuciated,Partial Loss,three,Landing,Hazardous,2,3
+A,Unannuciated,Partial Loss,three,Landing,Catastrophic,1,3
+B ,Annuciated,Partial Loss,two,RTO,Major,3,2
+B ,Unannuciated,Partial Loss,two,RTO,Hazardous,2,2
+C,Annuciated,Partial Loss,one,Taxi,Minor,4,1
+C,Unannuciated,Partial Loss,one,Taxi,None,5,1
+D,Annuciated,Partial Loss,zero,Cruise,Minor,4,0
+D,Unannuciated,Partial Loss,zero,Cruise,None,5,0
